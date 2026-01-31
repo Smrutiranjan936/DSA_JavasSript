@@ -1,0 +1,42 @@
+        //Add Operator Using with String
+/*1*/
+let a = "Hello";
+let b = "World";
+let result1 = a + " " + b;
+console.log(result1); // OUTPUT: Hello World
+/*2*/
+let c = "10";
+let d = "5";
+let result2 = c + d;
+console.log(result2); // OUTPUT: 105
+/*3*/
+let e = "JavaScript";
+let f = 2024;
+let result3 = e + " " + f;
+console.log(result3); // OUTPUT: JavaScript 2024
+/*4*/
+let g = "ADDition";
+let h = 50;
+let i = 20;
+let result4 = g + " " + (h + i);
+console.log(result4); // OUTPUT: ADDition 70
+/*5*/
+let j = "100";
+let k = 25;
+let result5 = j - k;
+console.log(result5); // OUTPUT: 75
+/*6*/
+let l = "200";
+let m = "50";
+let result6 = l - m;
+console.log(result6); // OUTPUT: 150
+/*7*/
+let n = "15";
+let o = 5;
+let result7 = n * o;
+console.log(result7); // OUTPUT: 75
+/*8*/
+let p = "100";
+let q = "4";
+let result8 = p / q;
+console.log(result8); // OUTPUT: 25
