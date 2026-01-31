@@ -1,0 +1,19 @@
+        //Swap two variables
+/*1*/
+let a = 10;
+let b = 20;
+let c;
+c = a;
+a = b;
+b = c;
+console.log(a);
+console.log(b);
+
+/*2*/
+let x = 5;
+let y = 15;
+x = x + y;
+y = x - y;
+x = x - y;
+console.log(x);
+console.log(y);
