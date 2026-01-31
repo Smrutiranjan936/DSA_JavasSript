@@ -1,0 +1,21 @@
+        //var Condition
+/*1*/
+        var a=20;
+        console.log(a);//OUTPUT: 20
+/*2*/
+        console.log(b);//OUTPUT: undefined
+        var b=10;
+        //let Condition
+/*3*/
+        let d=30;
+        console.log(d);//OUTPUT: 30
+/*4*/        
+        console.log(e);//OUTPUT: incorrect usage
+        let e=20;
+        //const Condition
+/*5*/
+        const f=20;
+        console.log(f);//OUTPUT: 20
+/*6*/
+        console.log(c);//OUTPUT: incorrect usage
+        const c=20;
